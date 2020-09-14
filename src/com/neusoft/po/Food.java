@@ -1,7 +1,7 @@
 package com.neusoft.po;
 
 public class Food {
-    private int me;
+    private int we;
     private int foodId;
     private String foodName;
     private String foodExplain;
